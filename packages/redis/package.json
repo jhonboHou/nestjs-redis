@@ -1,6 +1,6 @@
 {
-  "name": "@liaoliaots/nestjs-redis",
-  "version": "10.1.0",
+  "name": "@jhonbohou/nestjs-redis",
+  "version": "1.0.1",
   "description": "Redis(ioredis) module for Nest framework (node.js).",
   "author": "LiaoLiao <yxiaosong002@gmail.com>",
   "exports": "./dist/index.js",
@@ -53,12 +53,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/liaoliaots/nestjs-redis#readme",
+  "homepage": "https://github.com/jhonbohou/nestjs-redis#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liaoliaots/nestjs-redis.git"
+    "url": "git+https://github.com/jhonbohou/nestjs-redis.git"
   },
   "bugs": {
-    "url": "https://github.com/liaoliaots/nestjs-redis/issues"
+    "url": "https://github.com/jhonbohou/nestjs-redis/issues"
   }
 }

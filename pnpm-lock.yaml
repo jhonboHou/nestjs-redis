@@ -150,7 +150,7 @@ importers:
         specifier: 2.8.1
         version: 2.8.1
     devDependencies:
-      '@liaoliaots/nestjs-redis':
+      '@jhonbohou/nestjs-redis':
         specifier: workspace:*
         version: link:../redis
 
